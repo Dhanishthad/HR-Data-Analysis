@@ -8,4 +8,5 @@
 ◈ Advanced DAX calculations like cumulative headcount, leave balance more than 20 days <br>
 ◈ Designing a monthly HR dashboard with Power BI<br>
 ◈ Working with "NEW" card visual in Power BI<br>
-<img align="left" width="750" height="450" src="https://github.com/user-attachments/assets/21645c1d-35d6-4f6d-a121-8444fc1c4b0e"></img>
+<img align="left" width="750" height="450" src="https://github.com/user-attachments/assets/21645c1d-35d6-4f6d-a121-8444fc1c4b0e"></img><br>
+<img align="left" width="750" height="450" src="https://github.com/user-attachments/assets/6cdece84-5782-435a-ae40-4dfc9209febe"></img>
